@@ -37,5 +37,5 @@ Google Chrome - Chromimum.org
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
 
-
+Gekk allt mjög vel hjá okkur fyrir utan SSH keyrsluna.
 
